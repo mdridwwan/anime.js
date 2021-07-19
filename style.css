@@ -1,0 +1,61 @@
+    .box {
+        position: relative;
+        width: 100px;
+        height: 100px;
+        margin: 4px;
+        display: inline-block;
+        text-align: center;
+        font-size: 2em;
+        color: white;
+    }
+    
+    .path {
+        stroke-dasharray: 20;
+    }
+    
+    .red,
+    .red1 {
+        background-color: red;
+    }
+    
+    .blue {
+        position: relative;
+        background-color: green;
+        border-radius: 50%;
+        width: 70px;
+        height: 70px;
+        margin-bottom: 20px;
+    }
+    
+    .orange,
+    .orang3 {
+        background-color: green;
+    }
+    
+    .pink,
+    .pink4 {
+        background-color: rgb(255, 0, 0);
+    }
+    
+    .green,
+    .green5 {
+        background-color: green;
+    }
+    
+    .yellow,
+    .yellow6 {
+        background-color: rgb(255, 21, 0);
+    }
+    
+    .blue2 {
+        background-color: green;
+    }
+    /* Bangladesh----------------- */
+    
+    .boxA {
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        background-color: greenyellow;
+        margin-bottom: 10px;
+    }
